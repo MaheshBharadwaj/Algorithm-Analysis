@@ -1,3 +1,7 @@
 #Ignore Zip
 *.zip
 __pycache__/
+*.tex
+*.aux
+*.log
+
