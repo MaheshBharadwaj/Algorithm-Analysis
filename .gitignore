@@ -4,5 +4,6 @@ __pycache__/
 *.tex
 *.aux
 *.log
+*.out
 .ipynb_checkpoints/
 
