@@ -26,7 +26,7 @@ print('\n\nThe Previous Matrix Is: \n')
 print(previous)
 
 
-def path_display(source,dest):
+def path_display(source,dest,distance=0):
     global previous
 
     if dest == source:
